@@ -1,3 +1,5 @@
 sample
 
 This file has been modified by test2.
+
+This text is for conflict experiment.
